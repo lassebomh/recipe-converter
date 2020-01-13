@@ -1,5 +1,5 @@
 # recipe-converter
-Converts a full recipes units to or from imperial/us/metric.
+Converts a full recipes to or from imperial/us/metric.
 
 ## Examples
 
