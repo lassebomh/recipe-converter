@@ -40,4 +40,4 @@ a cup of shredded mozzarella cheese
 </table>
 
 ## Bugs
-The program does not always output the convertion correctly, so please don't trust it when it tells you to go get 136.66kg of salt.
+The program does not always output the convertion correctly, so please don't trust it when it tells you that you need 136.66kg of salt for your pudding recipe.
